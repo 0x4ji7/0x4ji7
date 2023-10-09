@@ -1,7 +1,7 @@
 
 ## Hi, I'm Ajit👋 I'm a Security Researcher and Web Application Pentester.
 
-🔭 I’m currently doing CTF and Osint.<br>🌱 I’m currently learning Python. <br>💬 Ask me about anything <br>⚡ Fun fact : I've mastered the art of 'Ctrl + Z' . If only it worked in real life! 🤷‍♂️⌨️🙃.
+🔭 I’m currently doing CTF and Osint.<br>🌱 I’m currently learning Python and Go. <br>💬 Ask me about anything <br>⚡ Fun fact : I've mastered the art of 'Ctrl + Z' . If only it worked in real life! 🤷‍♂️⌨️🙃.
 
 
 ## My Socials:
